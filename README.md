@@ -47,7 +47,7 @@ python webServer.py
 3. Open a browser and navigate to:
 - http://127.0.0.1:8080/helloworld.html
 
-4.The server will respond with:
+4. The server will respond with:
 - 200 OK and the file content if the file exists
 - 404 Not Found if the requested resource is missing
 
